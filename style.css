@@ -1,0 +1,22 @@
+.background_img {
+  width: 100%;
+  height: 100vh; /* Define a altura do div como 100% da altura da janela de visualização */
+  background-image: url("teste.png"); /* Substitua 'caminho/para/sua/imagem.jpg' pelo caminho real da sua imagem */
+  background-size: cover; /* Ajusta a imagem para cobrir todo o div */
+  background-position: center; /* Centraliza a imagem no div */
+}
+
+.container {
+  width: 100%;
+  height: 100vh;
+  background-image: url("teste.png"); /* Substitua pelo caminho da sua imagem */
+  background-size: cover;
+  background-position: center;
+  color: white; /* Cor do texto */
+  text-align: center; /* Alinhamento do texto */
+  padding: 20px; /* Espaçamento interno */
+}
+
+h1 {
+  margin-top: 50vh; /* Ajusta o texto verticalmente */
+}
